@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.antigravitycli/
+.gemini/
+.idea/
+.vscode/
+venv/
+.venv/
+env/
+.env
